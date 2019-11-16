@@ -10,6 +10,7 @@ HANDLER.BotClasses = {
 	"Bloated Zombie", "Bloated Zombie", "Bloated Zombie",
 	"Fast Zombie", "Fast Zombie", "Fast Zombie", "Fast Zombie",
 	"Poison Zombie", "Poison Zombie", "Poison Zombie",
+	"Skeletal Knight", "Skeletal Knight",
 	"Zombine", "Zombine", "Zombine", "Zombine", "Zombine"
 }
 HANDLER.RandomSecondaryAttack = {

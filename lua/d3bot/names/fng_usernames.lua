@@ -1,6 +1,10 @@
 -- http://www.fantasynamegenerators.com/username-generator.php
 
 D3bot.Names = {
+	"SmallTitties",
+	"SaggyTitties",
+	"NotSoBigTitties",
+	"LindaWithoutTitties",
 	"AcrobaticCheetah",
 	"AcrobaticOracle",
 	"ActionPup",
